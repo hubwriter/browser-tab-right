@@ -6,4 +6,7 @@ The beauty of this is that if you have lots of browser tabs open then the ones y
 
 ## Installing this extension
 
-1. `git clone` this repo in the usual way 
+1. Clone this repo. For example, in a terminal: `git clone https://github.com/hubwriter/browser-tab-right.git`
+2. Go to **chrome://extensions/** in Chrome.
+3. Click **Load unpacked** top right of the page.
+4. In the dialog box, browse to and select the `browser-tab-right` directory.
